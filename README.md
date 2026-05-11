@@ -1,1 +1,1 @@
-Esta atividade é baseada no estudo de gitflow com rebase
+Esta atividade é baseada no estudo de gitflow com rebase. DEV edit
