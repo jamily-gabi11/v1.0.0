@@ -1,1 +1,1 @@
-Esta atividade é baseada no estudo de gitflow com rebase. DEV edit . primeira alteração, segunda alteração. Login, 1 alteração de login
+Esta atividade é baseada no estudo de gitflow com rebase. DEV edit . primeira alteração, segunda alteração. Login, 1 alteração de login, 2 alteração de login
